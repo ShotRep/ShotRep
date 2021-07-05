@@ -9,10 +9,10 @@
 </br>
 
 ## GitHub Stats:
-![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)]
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShotRep&theme=blue-green&layout=compact)](https://github.com/ShotRep/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShotRep&theme=blue-green&layout=compact)]
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 <br />
