@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShotRep&theme=blue-green&layout=compact)
 
 ## Professional Information.
-[<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="60px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 <br />
 
 <!-- This section you create this variables that are used above -->
