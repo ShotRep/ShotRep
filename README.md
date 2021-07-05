@@ -6,8 +6,8 @@
 - ⚡ I’m currently working on - Mostly course work through The Odin Project and Udemy courses.
 - 🌱 I’m currently learning - Modern JavaScript / React and when I have the time Algorithms and Data Structures for JavaScript. 
 - 👯 I’m looking to collaborate with - Anyone who is like minded and would like the help of a junior dev.
-- 💬 Ask me about - The path I have chosen to learn developing.  I have tried differnt approaches.
-- 🥅 2021 Goal - Proficiencyq in JS and Python would bring be to my goal as GIS developer.
+- 💬 Ask me about - The path I have chosen to learn developing.  I have tried different approaches.
+- 🥅 2021 Goal - Proficiency in JS and Python would bring be to my goal as GIS developer.
 
 ## Stack:
 [![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
