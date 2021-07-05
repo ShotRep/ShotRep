@@ -1,6 +1,11 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/channel-mosaic.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 ## A bit about me:
 - ⚡ I’m currently working on - Mostly course work through The Odin Project and Udemy courses.
 - 🌱 I’m currently learning - Modern JavaScript / React and when I have the time Algorithms and Data Structures for JavaScript. 
