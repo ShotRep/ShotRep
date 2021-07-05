@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate with - Anyone who is like minded and would like the help of a junior dev.
 - 💬 Ask me about - The path I have chosen to learn developing.  I have tried differnt approaches.
 - 🥅 2021 Goal - Proficiencyq in JS and Python would bring be to my goal as GIS developer.
-</br>
+
 ## Stack:
 
 ## GitHub Stats:
