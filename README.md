@@ -8,9 +8,7 @@
 - 💬 Ask me about - The path I have chosen to learn web developing.  I have tried differnt approaches to learning.
 - 🥅 2021 Goal - Become a better programmer and possibly merge my GIS/IT background.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=shotrep&count_private=true&include_all_commits=true&theme=chartreuse-dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 <br />
