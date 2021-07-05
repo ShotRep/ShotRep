@@ -9,7 +9,8 @@
 - 🥅 2021 Goal - Become a better programmer and possibly merge my GIS/IT background.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShotRep&layout=compact)](https://github.com/ShotRep/github-readme-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShotRep&theme=blue-green&layout=compact)](https://github.com/ShotRep/github-readme-stats)
 
 
 
