@@ -7,7 +7,7 @@
 - 💬 Ask me about - The path I have chosen to learn developing.  I have tried differnt approaches.
 - 🥅 2021 Goal - Proficiencyq in JS and Python would bring be to my goal as GIS developer.
 </br>
-
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ## GitHub Stats:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
 </br>
