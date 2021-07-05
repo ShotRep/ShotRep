@@ -15,6 +15,7 @@
 [![Flexbox](https://img.icons8.com/fluent/48/000000/channel-mosaic.png)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 [![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![nodeJS](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/en/)
 [![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 
 ## GitHub Stats:
