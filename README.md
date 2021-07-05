@@ -4,8 +4,8 @@
 - ⚡ I’m currently working on - Mostly course work through The Odin Project and Udemy courses.
 - 🌱 I’m currently learning - Modern JavaScript / React and when I have the time Algorithms and Data Structures for JavaScript. 
 - 👯 I’m looking to collaborate with - Anyone who is like minded and would like the help of a junior dev.
-- 💬 Ask me about - The path I have chosen to learn web developing.  I have tried differnt approaches to learning.
-- 🥅 2021 Goal - Become a better programmer and possibly merge my GIS/IT background.
+- 💬 Ask me about - The path I have chosen to learn developing.  I have tried differnt approaches to learning.
+- 🥅 2021 Goal - Proficiency in JS and Python would bring be to my goal as GIS developer.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
 </br>
