@@ -10,7 +10,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=shotrep&count_private=true&include_all_commits=true&theme=chartreuse-dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=chartreuse-dark&show_icons=true)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 <br />
