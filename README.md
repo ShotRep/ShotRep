@@ -14,7 +14,7 @@
 - 🥅 2021 Goal - Proficiencyq in JS and Python would bring be to my goal as GIS developer.
 </br>
 ## Stack:
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/fluent/48/000000/channel-mosaic.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
 ## GitHub Stats:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
 </br>
