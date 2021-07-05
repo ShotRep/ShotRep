@@ -10,7 +10,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=shotrep&count_private=true&include_all_commits=true&theme=rowdy)
 
-Find me on LinkedIn:[<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+![<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 <br />
 
 <!-- This section you create this variables that are used above -->
