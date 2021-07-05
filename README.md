@@ -8,9 +8,9 @@
 - 💬 Ask me about - The path I have chosen to learn web developing.  I have tried differnt approaches to learning.
 - 🥅 2021 Goal - Become a better programmer and possibly merge my GIS/IT background.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=shotrep&count_private=true&include_all_commits=true&theme=rowdy)
+![My github stats](https://github-readme-stats.vercel.app/api?username=shotrep&count_private=true&include_all_commits=true&theme=red)
 
-![<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 <br />
 
 <!-- This section you create this variables that are used above -->
