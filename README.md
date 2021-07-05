@@ -7,11 +7,12 @@
 - 💬 Ask me about - The path I have chosen to learn developing.  I have tried differnt approaches.
 - 🥅 2021 Goal - Proficiencyq in JS and Python would bring be to my goal as GIS developer.
 </br>
+
 ## GitHub Stats:
-(https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
 </br>
 </br>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ShotRep&theme=blue-green&layout=compact)](https://github.com/ShotRep/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShotRep&theme=blue-green&layout=compact)](https://github.com/ShotRep/github-readme-stats)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 <br />
@@ -20,24 +21,3 @@
 [website]: https://google.com
 [linkedin]: https://www.linkedin.com/in/russell-eskew/
 
-
-
-
-
-
-
-<!--
-**ShotRep/ShotRep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-👋
--->
