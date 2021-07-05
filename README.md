@@ -9,6 +9,7 @@
 - 🥅 2021 Goal - Become a better programmer and possibly merge my GIS/IT background.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
+![My github repos](https://github-readme-repo.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 <br />
