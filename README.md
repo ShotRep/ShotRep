@@ -16,14 +16,11 @@
 ## Stack:
 [![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
 [![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](link)
-[![Flexbox](https://img.icons8.com/fluent/48/000000/channel-mosaic.png)](link)
-[![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)](link)
-[![React](https://img.icons8.com/color/48/000000/react-native.png)](link)
-[![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)](link)
-
-
-<!-- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/fluent/48/000000/channel-mosaic.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> -->
+[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/)
+[![Flexbox](https://img.icons8.com/fluent/48/000000/channel-mosaic.png)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 
 ## GitHub Stats:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
