@@ -20,8 +20,6 @@
 [![nodeJS](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/en/)
 [![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 
-<img src="https://img.icons8.com/plasticine/100/000000/github.png"/>
-
 ## GitHub Stats: 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
