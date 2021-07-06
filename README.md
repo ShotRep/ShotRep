@@ -1,14 +1,14 @@
 <img src="https://i.imgur.com/bgR5v4Z.jpeg" width="100%"/>
 
-## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## :octocat: Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## A bit about me:
 -<img src="https://img.icons8.com/color/48/000000/define-location--v2.png"/>
 - ⚡ I’m currently working on - Mostly course work through The Odin Project and Udemy courses.
-- 🌱 I’m currently learning - Modern JavaScript / React and when I have the time Algorithms and Data Structures in JS. 
+- ✨ I’m currently learning - Modern JavaScript / React and when I have the time Algorithms and Data Structures in JS. 
 - 👯 I’m looking to collaborate with - Anyone who is like minded and would like the help of a junior dev.
 - 💬 Ask me about - The path I have chosen to learn developing.  I have tried different approaches, paid & free.
-- 🥅 2021 Goal - Proficiency in JS and Python would bring me closer to my goal as either a GIS or web dev.
+- 💥 2021 Goal - Proficiency in JS and Python would bring me closer to my goal as either a GIS or web dev.
 
 ## Stack:
 [![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
