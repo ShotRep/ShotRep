@@ -1,4 +1,4 @@
-<img src="https://wallpaper.dog/large/10742945.jpg" width="100%"/>
+<img src="https://i.imgur.com/bgR5v4Z.jpeg" width="100%"/>
 
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
