@@ -27,7 +27,7 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ShotRep&theme=blue-green&show_icons=true)
 </br>
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShotRep&theme=blue-green&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShotRep&theme=blue-green&layout=compact) <img src="https://img.icons8.com/plasticine/100/000000/github.png"/>
 
 ## Professional Information.
 [<img align="left" alt="codeSTACKr | LinkedIn" width="60px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
