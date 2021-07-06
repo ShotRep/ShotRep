@@ -3,6 +3,7 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## A bit about me:
+-<img src="https://img.icons8.com/color/48/000000/define-location--v2.png"/>
 - ⚡ I’m currently working on - Mostly course work through The Odin Project and Udemy courses.
 - 🌱 I’m currently learning - Modern JavaScript / React and when I have the time Algorithms and Data Structures in JS. 
 - 👯 I’m looking to collaborate with - Anyone who is like minded and would like the help of a junior dev.
