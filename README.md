@@ -4,9 +4,9 @@
 
 ## A bit about me:
 
-* ⚡ I’m currently working on - Mostly course work through The Odin Project and Udemy courses.
+* ⚡ I’m currently working on - Mostly course work through The Odin Project and Udemy.
 * 🔆 I’m currently learning - Modern JavaScript / React and when I have the time Algorithms and Data Structures in JS. 
-* 👯 I’m looking to collaborate with - Anyone who is like minded and would like the help of a junior dev.
+* 👯 I’m looking to collaborate and learn with - Anyone who is like minded and would like the help of a junior dev.
 * 💬 Ask me about - The path I have chosen to learn developing.  I have tried different approaches, paid & free.
 * 💥 Goals for 2021 - Proficiency in JS and Python would bring me closer to my goal as either a GIS or web dev.:octocat:
 
